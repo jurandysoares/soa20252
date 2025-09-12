@@ -8,7 +8,7 @@ Procure respostas para as seguintes perguntas sobre a história dos sistemas ope
 
 ---
 
-### **História dos sistemas operacionais de código aberto**
+## História dos sistemas operacionais de código aberto
 
 1. Qual a importância do **BSD (Berkeley Software Distribution)** no desenvolvimento de sistemas modernos como FreeBSD, NetBSD e OpenBSD?
 2. O **Minix**, criado por **Andrew Tanenbaum**, foi desenvolvido com qual objetivo educacional?
@@ -18,7 +18,7 @@ Procure respostas para as seguintes perguntas sobre a história dos sistemas ope
 
 ---
 
-### **Licenças e filosofia do software livre**
+## Licenças e filosofia do software livre
 
 6. Qual a diferença entre a **GNU General Public License (GPL)** e a **GNU Lesser General Public License (LGPL)**?
 7. Por que a GPL é chamada de **licença copyleft**?
@@ -28,7 +28,7 @@ Procure respostas para as seguintes perguntas sobre a história dos sistemas ope
 
 ---
 
-### **Distribuições Linux**
+## Distribuições Linux
 
 11. Qual foi a importância da **Slackware**, lançada em 1993 por **Patrick Volkerding**, para popularizar o Linux?
 12. Como a **Debian**, criada por **Ian Murdock** em 1993, se destacou pelo seu modelo comunitário de desenvolvimento?
