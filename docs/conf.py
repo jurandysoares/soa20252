@@ -29,3 +29,11 @@ language = 'pt_BR'
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 html_title = html_short_title = project
+html_theme_options = {
+    "repository_url": "https://github.com/jurandysoares/soa20252",
+    "use_source_button": True,
+    "repository_branch": "main",
+    "path_to_docs": "docs",
+    "use_edit_page_button": True,
+    "use_repository_button": True,
+}
