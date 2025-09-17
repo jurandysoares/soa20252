@@ -4,6 +4,8 @@
 :maxdepth: 1
 :caption: Sumário
 
+equipe.md
+animais.md
 plano-ensino-disciplina.md
 aulas/index.md
 sabados-letivos/index.md
