@@ -4,9 +4,10 @@
 :maxdepth: 1
 :caption: Sumário
 
+plano-ensino-disciplina.md
+codigo-de-conduta.md
 equipe.md
 animais.md
-plano-ensino-disciplina.md
 aulas/index.md
 sabados-letivos/index.md
 ```
