@@ -33,7 +33,7 @@ em Sistema Operacional Aberto.
    2. Versões e Distribuições;
    3. Sistemas de Arquivos Suportados;
    4. Pacotes de Softwares.
-   5. 
+
 3. Instalação, Atualização e Configuração Básica
 4. Comandos Básicos
 5. Fundamentos sobre a Gerência de Sistemas Operacionais Linux
