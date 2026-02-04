@@ -1,0 +1,21 @@
+DDD,Capital,Sigla,Usuário,Hostname,IP de enp0s10
+11,São Paulo,SAO,carlos,sao.carlos.lab,172.16.2.11/16
+21,Rio de Janeiro,RIO,felipe,rio.felipe.lab,172.16.2.21/16
+27,Vitória,VIX,gabriels,vix.gabriels.lab,172.16.2.27/16
+31,Belo Horizonte,BHZ,gabrielm,bhz.gabrielm.lab,172.16.2.31/16
+41,Curitiba,CWB,guilherme,cwb.guilherme.lab,172.16.2.41/16
+48,Florianópolis,FLN,jackson,fln.jackson.lab,172.16.2.48/16
+51,Porto Alegre,POA,jefferson,poa.jefferson.lab,172.16.2.51/16
+61,Brasília,BSB,joaovitor,bsb.joaovitor.lab,172.16.2.61/16
+62,Goiânia,GYN,jonathan,gyn.jonathan.lab,172.16.2.62/16
+63,Palmas,PMW,kaua,pmw.kaua.lab,172.16.2.63/16
+65,Cuiabá,CGB,leticia,cgb.leticia.lab,172.16.2.65/16
+67,Campo Grande,CGR,lourival,cgr.lourival.lab,172.16.2.67/16
+68,Rio Branco,RBR,lucas,rbr.lucas.lab,172.16.2.68/16
+69,Porto Velho,PVH,poliana,pvh.poliana.lab,172.16.2.69/16
+71,Salvador,SSA,matheus,ssa.matheus.lab,172.16.2.71/16
+79,Aracaju,AJU,rayssa,aju.rayssa.lab,172.16.2.79/16
+81,Recife,REC,samuel,rec.samuel.lab,172.16.2.81/16
+82,Maceió,MCZ,sofia,mcz.sofia.lab,172.16.2.82/16
+83,João Pessoa,JPA,yuri,jpa.yuri.lab,172.16.2.83/16
+86,Teresina,THE,jurandy,the.jurandy.lab,172.16.2.86/16
