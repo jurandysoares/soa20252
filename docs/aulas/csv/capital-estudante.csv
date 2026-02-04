@@ -1,4 +1,4 @@
-DDD,Capital,Sigla,Usuário,Hostname,IP de enp0s10
+DDD,Capital,Sigla,Usuário,Hostname,IP da 3ª interface
 11,São Paulo,SAO,carlos,sao.carlos.lab,172.16.2.11/16
 21,Rio de Janeiro,RIO,felipe,rio.felipe.lab,172.16.2.21/16
 27,Vitória,VIX,gabriels,vix.gabriels.lab,172.16.2.27/16
